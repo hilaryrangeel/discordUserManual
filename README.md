@@ -9,27 +9,27 @@ Hasta los usuarios más experimentados pueden encontrar cosas nuevas aquí.
 ## ❓ ¿Qué es Discord? Una Descripción
 
 **Discord** no es solo una aplicación para videojuegos. En su esencia, es un lugar para formar comunidades.  
-Funciona mediante una estructura de **servers**, que son como edificios virtuales. Dentro de estos edificios, ay diferentes **canales**, que son como habitaciones:  
+Funciona mediante una estructura de **servers**, que son como edificios virtuales. Dentro de estos edificios, hay diferentes **canales**, que son como habitaciones:  
 
 - 📄 *Canales de Texto*: para chats escritos.  
 - 🎙️ *Canales de Voz*: para hablar en voz.  
 
 Fue diseñada para que la gente pudiera conectarse con otras que tengan intereses comunes, ya sea para:  
-- Platicar de un juego  
-- Hablar de un libro  
-- Compartir arte  
-- Planear proyectos de trabajo  
+- Platicar de un juego.
+- Hablar de un libro.
+- Compartir arte.
+- Planear proyectos de trabajo.
 
 ---
 
 ## 🚀 Primeros Pasos: Cuenta y Servers
 
-### 1. Instalación y Configurasión Inisial
+### 1. Instalación y Configuración Inicial
 - Baja la aplicación desde la **página oficial de Discord**.  
 - Disponible para: Windows, macOS, Linux, iOS y Android.  
 - Crea tu cuenta con:  
-  - 📧 Dirección de correo  
-  - 👤 Nombre de usuario  
+  - 📧 Dirección de correo.
+  - 👤 Nombre de usuario.
   - 🔒 Contraseña (asegúrate que sea difícil).  
 
 ### 2. Unirte a un Server
@@ -40,13 +40,13 @@ Fue diseñada para que la gente pudiera conectarse con otras que tengan interese
 👉 *Unirte a un server es el corazón de la experiencia en Discord.*  
 
 ### 3. Ajustes de Usuario
-- 🔧 Ve al icono del engranaje en la esquina inferior izquierda.  
+- 🔧 Ve al ícono del engranaje en la esquina inferior izquierda.  
 - Opciones disponibles:  
-  - Cambiar foto de perfil  
-  - Modificar tu nombre  
-  - Ajustar privacidad  
-  - Configurar notificaciones  
-  - Ajustar micrófono y audífonos  
+  - Cambiar foto de perfil.
+  - Modificar tu nombre.
+  - Ajustar privacidad.
+  - Configurar notificaciones.
+  - Ajustar micrófono y audífonos.
 
 ---
 
@@ -55,14 +55,14 @@ Fue diseñada para que la gente pudiera conectarse con otras que tengan interese
 ### 📄 Canales de Texto
 - Marcados con `#`.  
 - Permiten: escribir mensajes, usar emojis, pegar GIF.  
-- Para etiquetar a alguien: usa `@nomre`.  
+- Para etiquetar a alguien: usa `@nombre`.  
 
 ### 🎙️ Canales de Voz
-- Identificados con icono de 🎧 o 🔊.  
+- Identificados con ícono de 🎧 o 🔊.  
 - Permiten conversación en tiempo real.  
 - Opciones:  
-  - Silenciar tu micrófono  
-  - Ensordecerte (no oír a nadie)  
+  - Silenciar tu micrófono.
+  - Ensordecerte (no oír a nadie). 
 
 ### ✉️ Mensajes Directos (DM) y Llamadas Privadas
 - Se encuentran sobre la lista de servers.  
@@ -76,9 +76,9 @@ Fue diseñada para que la gente pudiera conectarse con otras que tengan interese
   - *Miembro Verificado*  
   - *Bot*  
 - Permisos incluyen:  
-  - Borrar mensajes  
-  - Expulsar miembros  
-  - Silenciar usuarios  
+  - Borrar mensajes.
+  - Expulsar miembros.
+  - Silenciar usuarios.
 
 ---
 
